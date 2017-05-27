@@ -1,0 +1,13 @@
+ Django>=1.8,<2.0
+ numpy==1.12.1
+ packaging==16.8
+ pip==9.0.1
+ protobuf==3.3.0
+ pyparsing==2.2.0
+ pytz==2017.2
+ scikit-learn==0.18.1
+ setuptools==35.0.2
+ six==1.10.0
+ tensorflow==1.1.0
+ werkzeug==0.12.2
+ wheel==0.29.0
