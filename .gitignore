@@ -1,6 +1,1 @@
-kaggleCompete/Include
-kaggleCompete/Lib
-kaggleCompete/Scripts
-kaggleCompete/tcl
-kaggleCompete/pip-selfcheck.json
-mysite/__pycache__
+*/__pycache__/*
